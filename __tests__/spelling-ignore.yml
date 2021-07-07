@@ -9,6 +9,7 @@
 - http
 - https
 - wai-aria
+- validator
 
 # Tag(s)
 - svg # `aria-query` dom tags does not list `svg`
@@ -50,11 +51,10 @@
 - testrunner
 - color
 - focusable
-- Focusable
 - unfocusable
 - tabindex
 - whitespace
-- Whitespace
+- textfield
 - namespace
 - namespaces
 - webpage
@@ -72,6 +72,25 @@
 - 14pt
 - 18pt
 - Helvetica
+- fieldsets
+- ascii # lowercase needed in reference list
+- CMS
+
+# Parts of url
+- http
+- https
+- github.com
+- www.w3.org
+- eval
+- html52
+- css-scoping
+- csswg
+- whatwg
+- dom
+- wai-aria
+- multipage
+- attr-input-type
+- wai-aria-1.1
 
 # Notes and acronyms
 - TODO
@@ -115,11 +134,10 @@
 
 # Unsure why the dictionary does not have these words
 - programmatically
-- Programmatically
 - personalization
-- Autofill
+- autofill
 - implementers
-- Implementers
+- presentational
 - backtick
 - camelCase
 
